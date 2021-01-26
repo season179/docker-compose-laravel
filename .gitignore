@@ -1,2 +1,5 @@
 mysql/*
 !mysql/README.md
+
+src/*
+!src/README.md
